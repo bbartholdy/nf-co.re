@@ -25,4 +25,11 @@ Got an idea for a talk? Let us know on the [`#bytesize`](https://nfcore.slack.co
 
 This week, Zandra Fagernäs ([@ZandraFagernas](http://github.com/ZandraFagernas/)) will present: _**Graphic design / pipeline diagrams.**_
 
-The talk will be presented on Zoom and live-streamed on YouTube.
+This will cover:
+
+* How the graphics for nf-core/eager were created. 
+* Tips and tricks on how to make graphics.
+
+The talk will be presented on Zoom and live-streamed on YouTube:
+
+* YouTube: <https://youtu.be/5jZPucWXnno>
